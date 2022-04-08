@@ -11,9 +11,9 @@ class PositionalEncoding(nn.Module):
             seq_len: length of input sequence
             embed_model_dim: demension of embedding
         """
+
         super(PositionalEncoding, self).__init__()
         self.embed_dim = embed_model_dim
-
         pe = torch.zeros(max_seq_len,self.embed_dim)
         for pos in range(max_seq_len):
             for i in range(0,self.embed_dim,2):
