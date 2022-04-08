@@ -6,7 +6,7 @@ German to english machine translation on multi30k german dataset.
 
 ## About Dataset
 
-Multi30K is a dataset to stimulate multilingual multimodal research for English-German. It is based on the Flickr30k dataset, which contains 31,014 images sourced from online photo-sharing websites. Multi30k dataset consists of 29k german english sentance pairs for training 1k for validation and 1k for testing.
+Multi30K is a dataset to stimulate multilingual multimodal research for English-German. It is based on the Flickr30k dataset, which contains 31,014 images sourced from online photo-sharing websites. Multi30k dataset consists of 29k german english sentance pairs for training, 1k for validation and 1k for testing.
 
 
 ## Notebooks
