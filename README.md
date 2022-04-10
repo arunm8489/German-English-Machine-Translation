@@ -21,5 +21,5 @@ Multi30K is a dataset to stimulate multilingual multimodal research for English-
 
 
 ## Results
-<img src="https://github.com/arunm8489/German-English-Machine-Translation/blob/main/tmp/results.PNG"  width="400" height="300">
+<img src="https://github.com/arunm8489/German-English-Machine-Translation/blob/main/tmp/results.PNG"  width="800" height="200">
  
