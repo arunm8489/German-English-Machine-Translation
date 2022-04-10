@@ -10,6 +10,9 @@ Multi30K is a dataset to stimulate multilingual multimodal research for English-
 
 
 ## Notebooks
+
+ * Sequence to Sequence Machine translation using RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/arunm8489/German-English-Machine-Translation/blob/main/RNN-encoder-decoder-MT.ipynb)
+
  * Sequence to Sequence Machine translation using LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/arunm8489/German-English-Machine-Translation/blob/main/LSTM-encoder-decoder-MT.ipynb)
 
 * Sequence to Sequence Machine translation using GRU [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/arunm8489/German-English-Machine-Translation/blob/main/GRU-encoder-decoder-MT.ipynb)
